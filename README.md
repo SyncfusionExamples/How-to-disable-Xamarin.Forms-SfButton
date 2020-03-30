@@ -2,7 +2,7 @@
 
 This example demonstrates how to to find a way to disable / enable the SfButton when using ICommand. As per the [MSDN](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/data-binding/commanding#the-icommand-interface)suggestion.
 
->N Do not use the IsEnabled property of Button, if you are using the command interface.   
+> Do not use the IsEnabled property of Button, if you are using the command interface.   
 
 Please refer KB links for more details,
 
