@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="Syncfusion.Xamarin.Buttons" Version="*" />
-    <PackageReference Include="Xamarin.Forms" Version="4.3.0.991221" />
+    <PackageReference Include="Xamarin.Forms" Version="4.6.0.967" />
   </ItemGroup>
 
   <ItemGroup>
